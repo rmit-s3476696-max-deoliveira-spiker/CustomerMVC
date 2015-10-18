@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+        <siteMapNode url="http://localhost:2019/Home/Index" title="Home Page"  description="" />
+        <siteMapNode url="http://localhost:2019/Movie/Index" title="Current Screenings" description="" />
+        <siteMapNode url="http://localhost:2019/Session/Index" title="Session Times"  description="" />
+        <siteMapNode url="http://localhost:2019/Session/Details" title="Session Details"  description="" /> 
+        <siteMapNode url="http://localhost:2019/Cineplex/Index" title="Cineplex Locations"  description="" />
+        <siteMapNode url="http://localhost:2019/Booking/Create" title="Make Booking"  description="" />
+        <siteMapNode url="http://localhost:2019/Payment/Create" title="Booking Payment"  description="" />
+    </siteMapNode>
+</siteMap>
